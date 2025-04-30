@@ -2,7 +2,7 @@
 <h2 align="center">𝚑𝚎𝚕𝚕𝚘 𝚠𝚘𝚛𝚕𝚍_</h2>
 
 <p align="center">
-  <img src="imagens/banner-guts.jpg" width="60%"/>
+  <img src="imagens/banner-guts.jpg" width="40%"/>
 </p>
 
 <!-- about me -->
@@ -35,4 +35,4 @@ Tools: Git • VSCode • Terminal
 
 💬 Discord: zucksz__
 
-<p align="center"> <img src="gif/gif-skeleton.gif" width="50%" /> </p> <p align="center"> <em>"Struggle... endure... rise through code and darkness."</em> </p>
+<p align="center"> <img src="gif/gif-skeleton.gif" width="40%" /> </p> <p align="center"> <em>"Struggle... endure... rise through code and darkness."</em> </p>
