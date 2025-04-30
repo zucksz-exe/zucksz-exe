@@ -17,6 +17,7 @@
 
 ---
 
+<!-- stack -->
 ## ⚙️ Tech Arsenal
 
 ```bash
@@ -24,5 +25,14 @@ Languages:   Python
 Tools: Git • VSCode • Terminal
 ```
 
+<!-- stats -->
 ## 🌘 Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zucksz-exe&show_icons=true&theme=dark&hide_title=true&hide=prs" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=zucksz-exe&theme=dark" /> </p>
+
+<!-- contact me -->
+## 🕯️ Contact me
+📧 Email: leozucco1205@gmail.com
+
+💬 Discord: zucksz__
+
+<p align="center"> <img src="gif/gif-skeleton.gif" width="50%" /> </p> <p align="center"> <em>"Struggle... endure... rise through code and darkness."</em> </p>
