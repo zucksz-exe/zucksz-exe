@@ -16,3 +16,9 @@
 ⚔️ Constantly evolving in the tech world — no masters, no mercy.
 
 ---
+
+## ⚙️ Tech Arsenal
+
+```bash
+Languages:   Python
+Tools: Git • VSCode • Terminal
