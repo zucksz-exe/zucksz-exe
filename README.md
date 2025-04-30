@@ -22,3 +22,7 @@
 ```bash
 Languages:   Python
 Tools: Git • VSCode • Terminal
+```
+
+## 🌘 Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zucksz-exe&show_icons=true&theme=dark&hide_title=true&hide=prs" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=zucksz-exe&theme=dark" /> </p>
