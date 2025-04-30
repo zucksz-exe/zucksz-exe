@@ -35,4 +35,4 @@ Tools: Git • VSCode • Terminal
 
 💬 Discord: zucksz__
 
-<p align="center"> <img src="gif/gif-skeleton.gif" width="40%" /> </p> <p align="center"> <em>"Struggle... endure... rise through code and darkness."</em> </p>
+<p align="center"> <img src="gif/gif-skeleton.gif" width="20%" /> </p> <p align="center"> <em>"Struggle... endure... rise through code and darkness."</em> </p>
