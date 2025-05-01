@@ -28,8 +28,8 @@ Tools: Git • VSCode • Terminal
 <!-- stats -->
 ## 🌘 Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zucksz-exe&show_icons=true&theme=dark&hide_title=true&hide=prs" /> 
-
-<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
+<br/>
+<img src="https://streak-stats.demolab.com?user=zucksz-exe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /></div>
 
 <!-- contact me -->
 ## 🕯️ Contact me
